@@ -7,7 +7,7 @@
   [![Python](https://img.shields.io/badge/Python-3.9+-3776ab.svg)](https://python.org)
   [![uv](https://img.shields.io/badge/uv-package-blueviolet)](https://docs.astral.sh/uv/)
 
-  **🔓 Batch remove passwords from protected PDFs while keeping your originals safe**
+  **🔓 Batch remove passwords from protected PDFs 📄**
 
 </div>
 
