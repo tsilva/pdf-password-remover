@@ -1,6 +1,6 @@
 > [!WARNING]
 > ## Archived
-> This project is archived and no longer maintained. Its features have been merged into [pdfsmith](https://github.com/tsilva/pdfsmith) — use that instead.
+> This project is archived and no longer maintained. Its features have been merged into [pdfsmith](https://github.com/tsilva/pdfpress) — use that instead.
 
 <div align="center">
   <img src="logo.png" alt="pdf-password-remover" width="512"/>
