@@ -1,19 +1,18 @@
-> [!WARNING]
-> ## Archived
-> This project is archived and no longer maintained. Its features have been merged into [pdfsmith](https://github.com/tsilva/pdfpress) — use that instead.
-
-<div align="center">
+<p align="center">
   <img src="logo.png" alt="pdf-password-remover" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🔓 Batch remove passwords from protected PDFs 📄</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  # pdf-password-remover
-
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Python](https://img.shields.io/badge/Python-3.9+-3776ab.svg)](https://python.org)
   [![uv](https://img.shields.io/badge/uv-package-blueviolet)](https://docs.astral.sh/uv/)
 
-  **🔓 Batch remove passwords from protected PDFs 📄**
-
-</div>
+> [!WARNING]
+> ## Archived
+> This project is archived and no longer maintained. Its features have been merged into [pdfsmith](https://github.com/tsilva/pdfpress) — use that instead.
 
 ## ✨ Features
 
